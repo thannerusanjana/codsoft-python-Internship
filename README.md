@@ -25,7 +25,7 @@ The To-Do List application is a simple Python program that helps users manage th
 <img width="1920" height="1128" alt="Screenshot 2026-05-06 194219" src="https://github.com/user-attachments/assets/284b7f77-44f3-49fd-91bc-f35409d65346" />
 <img width="1920" height="1128" alt="Screenshot 2026-05-06 193924" src="https://github.com/user-attachments/assets/0a3b624b-e003-4d61-bfd1-1ae4e498de4c" />
 <img width="1920" height="1128" alt="Screenshot 2026-05-06 193857" src="https://github.com/user-attachments/assets/bd195fdf-99fd-4b8a-afa4-fad0239e6a35" />
-## demo video
+
 
 
 
